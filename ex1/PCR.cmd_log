@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "F:/experiment/ex1/PCR.xst" -ofn "F:/experiment/ex1/PCR.syr" 

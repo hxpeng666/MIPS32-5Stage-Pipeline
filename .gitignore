@@ -1,0 +1,29 @@
+# --- 忽略 ISE 产生的中间文件 ---
+*.stx
+*.ngc
+*.ngr
+*.syr
+*.xrpt
+*.xise
+*.gise
+*.tcl
+*.log
+*.xmsgs
+*.ini
+*_envsettings.html
+*_summary.html
+
+# --- 忽略文件夹 ---
+_xmsgs/
+iseconfig/
+xlnx_auto_0_xdb/
+netgen/
+planAhead_run*/
+
+# --- 忽略仿真产生的临时文件 ---
+fuse.xmsgs
+fuse.log
+fuseRelaunch.cmd
+*.tcl
+*.wcfg
+*.vsim

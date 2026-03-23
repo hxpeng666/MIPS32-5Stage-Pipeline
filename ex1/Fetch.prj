@@ -1,0 +1,6 @@
+verilog work "PCR.v"
+verilog work "MUX.v"
+verilog work "Inst_Rom.v"
+verilog work "EXT.v"
+verilog work "ADDER.v"
+verilog work "Fetch.v"

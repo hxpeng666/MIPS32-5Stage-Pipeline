@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "F:/experiment/ex2/CPU.xst" -ofn "F:/experiment/ex2/CPU.syr" 

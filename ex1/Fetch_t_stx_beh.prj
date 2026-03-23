@@ -1,0 +1,8 @@
+verilog isim_temp "PCR.v"
+verilog isim_temp "MUX.v"
+verilog isim_temp "Inst_Rom.v"
+verilog isim_temp "EXT.v"
+verilog isim_temp "ADDER.v"
+verilog isim_temp "Fetch.v"
+verilog isim_temp "Fetch_t.v"
+verilog isim_temp "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
